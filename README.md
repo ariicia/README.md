@@ -6,7 +6,7 @@ Sou um Estudante de Analise e Desenvolvimento de Sistemas apaixonada por criar s
 
 Como me encontrar
 
-[E-mail] (mailto:aricia.silva@outlook.com)
+[E-mail] (aricia.silva@outlook.com)
 
 [LinkedIn] (https://linkedin.com/in/ariicia)
 
