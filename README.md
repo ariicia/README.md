@@ -6,10 +6,10 @@ Sou um Estudante de Analise e Desenvolvimento de Sistemas apaixonada por criar s
 
 Como me encontrar
 
-![E-mail] (mailto:aricia.silva@outlook.com)
+[E-mail] (mailto:aricia.silva@outlook.com)
 
-![LinkedIn] (https://linkedin.com/in/ariciacosta)
+[LinkedIn] (https://linkedin.com/in/ariicia)
 
-![Dev.to] (https://dev.to/ariciacs)
+[Dev.to] (https://dev.to/ariicia)
 
-![Instagram] (https://instagram.com/ariciacs?igsi=eHh0ZjRhMTg1NDNh&utm_source=qr)
+
