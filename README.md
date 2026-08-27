@@ -8,6 +8,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por criar so
 📫 Como me encontrar
 
 📧 E-mail: ariiciacosta@gmail.com
+
 💼 LinkedIn: linkedin.com/in/ariicia
+
 📝 Dev.to: dev.to/ariicia
 
